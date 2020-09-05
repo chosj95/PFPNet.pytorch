@@ -75,7 +75,7 @@ python main.py --mode 'train' --dataset 'VOC' --save_folder 'weights/' --basenet
 To evaluate a trained network:
 
 ```
-python main.py --mode 'test' --dataset 'VOC' --save_folder 'weights/' --test_model 'weights/PFPNet320.pkl'
+python main.py --mode 'test' --dataset 'VOC' --save_folder 'weights/' --test_model 'weights/PFPNetR320.pkl'
 ```
 
 You can specify the parameters listed in the `main.py` file by flagging them or manually changing them. 
@@ -94,7 +94,7 @@ mAP
 | mAP    | 80.7                                 | 80.7            |
 | FPS    | 33                                   | 41              |
 
-
+PFPNetR320: https://drive.google.com/file/d/1xEcdMGgmPNyopeNHEhTWQAbjFhl1LHAY/view?usp=sharing
 
 ## References
 
