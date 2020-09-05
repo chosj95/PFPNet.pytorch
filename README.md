@@ -1,7 +1,7 @@
 # PFPNet.pytorch
-This repository provides the **official** PyTorch implementation for paper: [**Parallel Feature Pyramid Network for Object Detection**][https://openaccess.thecvf.com/content_ECCV_2018/html/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.html] by [**Seung-Wook Kim**][https://scholar.google.com/citations?hl=ko&user=UNZmEKIAAAAJ]. 
+This repository provides the **official** PyTorch implementation for paper: [**Parallel Feature Pyramid Network for Object Detection**](https://openaccess.thecvf.com/content_ECCV_2018/html/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.html) by [**Seung-Wook Kim**](https://scholar.google.com/citations?hl=ko&user=UNZmEKIAAAAJ). 
 
-**Note**: PFPNet is originally implemented [Caffe][https://caffe.berkeleyvision.org]. Following Caffe version, we re-implement Pytorch version. 
+**Note**: PFPNet is originally implemented [Caffe](https://caffe.berkeleyvision.org). Following Caffe version, we re-implement Pytorch version. 
 
 
 
@@ -17,7 +17,7 @@ This repository provides the **official** PyTorch implementation for paper: [**P
 
 - Then download the dataset by following the [instructions](#datasets) below.
 
-- We now support [Tensorboard][https://pytorch.org/docs/stable/tensorboard.html] for real-time loss visualization and validation during training!
+- We now support [Tensorboard](https://pytorch.org/docs/stable/tensorboard.html) for real-time loss visualization and validation during training!
 
   
 
@@ -102,5 +102,5 @@ mAP
 - A list of other great SSD ports that were sources of inspiration:
   - [amdegroot/ssd.pytorch](https://github.com/amdegroot/ssd.pytorch)
   - [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD)
-  - [luuuyi/RefineDet.PyTorch][https://github.com/luuuyi/RefineDet.PyTorch]
+  - [luuuyi/RefineDet.PyTorch](https://github.com/luuuyi/RefineDet.PyTorch)
 
