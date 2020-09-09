@@ -1,7 +1,7 @@
 # PFPNet.pytorch
 This repository provides the **official** PyTorch implementation for paper: [**Parallel Feature Pyramid Network for Object Detection**](https://openaccess.thecvf.com/content_ECCV_2018/html/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.html) by [**Seung-Wook Kim**](https://scholar.google.com/citations?hl=ko&user=UNZmEKIAAAAJ). 
 
-**Note**: PFPNet is originally implemented [Caffe](https://caffe.berkeleyvision.org). Following Caffe version, we re-implement Pytorch version. 
+**Note**: PFPNet is originally implemented on [Caffe](https://caffe.berkeleyvision.org). Following Caffe version, we re-implemented Pytorch version. 
 
 
 
